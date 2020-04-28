@@ -1,19 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 html,body{
   box-sizing:border-box;
   background-color: #9b34eb;
+  font-family:'Lobster', cursive;
 }
 
-#butterfly1{
+h1{
+font-size: 80px;
+text-align: center;
+color:#5f088a;
+}
+
+.fireflies2{
+  width:100px;
+  height:100px;
+  margin-right: 700px;
+}
+
+.fireflies3{
+  width:100px;
+  height:100px;
+  margin-right: 800px;
+}
+
+.fireflies1{
+  width:50px;
+  height:50px;
+  margin-left: 600px;
+
+}
+
+.fireflies4{
+  width:50px;
+  height:50px;
+  margin-left: 1000px;
+
+}
+
+.fireflies{
+  width:150px;
+  height:150px;
+
+}
+
+.butterfly1{
   width:500px;
   height:500px;
 }
 
-#butterfly2{
+.butterfly2{
   width:400px;
   height:400px;
 }
 
-#butterfly3{
+.butterfly3{
   width:900px;
   height:900px;
 }
@@ -26,9 +66,12 @@ html,body{
   display:block;
   margin-left:auto;
   margin-right: auto;
-  width:50%;
+  /* width:50%; */
 }
 
-/* img:hover {
-  transform: scaleY(-1);
-} */
+.jar{
+  width:700px;
+  height:1000px;
+  margin-left:500px;
+  margin-right:500px;
+}
