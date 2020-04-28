@@ -1,0 +1,34 @@
+html,body{
+  box-sizing:border-box;
+  background-color: #9b34eb;
+}
+
+#butterfly1{
+  width:500px;
+  height:500px;
+}
+
+#butterfly2{
+  width:400px;
+  height:400px;
+}
+
+#butterfly3{
+  width:900px;
+  height:900px;
+}
+
+.right{
+  float: right;
+}
+
+.center{
+  display:block;
+  margin-left:auto;
+  margin-right: auto;
+  width:50%;
+}
+
+/* img:hover {
+  transform: scaleY(-1);
+} */
